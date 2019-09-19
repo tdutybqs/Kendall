@@ -1,0 +1,6 @@
+C:\Users\Евгений\source\repos\Kendall\Kendall\bin\Debug\Kendall.exe
+C:\Users\Евгений\source\repos\Kendall\Kendall\bin\Debug\Kendall.pdb
+C:\Users\Евгений\source\repos\Kendall\Kendall\obj\Debug\Kendall.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\Kendall\Kendall\obj\Debug\Kendall.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\Kendall\Kendall\obj\Debug\Kendall.exe
+C:\Users\Евгений\source\repos\Kendall\Kendall\obj\Debug\Kendall.pdb
